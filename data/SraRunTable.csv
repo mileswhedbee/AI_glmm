@@ -1,0 +1,101 @@
+Run,Bases,Ecotype,Library Name,ReleaseDate,create_date,Sample Name,sex,Strain,Tissue
+SRR10901764,2385885200,high-predation,020_HP-P,2020-06-02T00:00:00Z,2020-01-16T00:32:00Z,Poecilia reticulata (Aripo HP),male,Aripo,whole brain
+SRR10901775,1684093200,high-predation,018_HP-NP,2020-06-02T00:00:00Z,2020-01-16T00:36:00Z,Poecilia reticulata (Aripo HP),male,Aripo,whole brain
+SRR10901786,2754989400,high-predation,015_HP-NP,2020-06-02T00:00:00Z,2020-01-16T00:40:00Z,Poecilia reticulata (Aripo HP),male,Aripo,whole brain
+SRR10901806,1917227200,high-predation,024_HP-NP,2020-06-02T00:00:00Z,2020-01-16T00:38:00Z,Poecilia reticulata (Aripo HP),male,Aripo,whole brain
+SRR10901817,1845345200,high-predation,022_HP-P,2020-06-02T00:00:00Z,2020-01-16T00:42:00Z,Poecilia reticulata (Aripo HP),male,Aripo,whole brain
+SRR10901829,2820480400,high-predation,013_HP-P,2020-06-02T00:00:00Z,2020-01-16T00:45:00Z,Poecilia reticulata (Aripo HP),male,Aripo,whole brain
+SRR10901830,2385115800,low-predation,058_LP-NP,2020-06-02T00:00:00Z,2020-01-16T00:44:00Z,Poecilia reticulata (Aripo LP),male,Aripo,whole brain
+SRR10901831,1889447600,low-predation,053_LP-P,2020-06-02T00:00:00Z,2020-01-16T00:43:00Z,Poecilia reticulata (Aripo LP),male,Aripo,whole brain
+SRR10901832,4237640600,low-predation,048_LP-NP,2020-06-02T00:00:00Z,2020-01-16T00:50:00Z,Poecilia reticulata (Aripo LP),male,Aripo,whole brain
+SRR10901833,2721084800,low-predation,046_LP-P,2020-06-02T00:00:00Z,2020-01-16T00:44:00Z,Poecilia reticulata (Aripo LP),male,Aripo,whole brain
+SRR10901834,3571930600,low-predation,044_LP-P,2020-06-02T00:00:00Z,2020-01-16T00:47:00Z,Poecilia reticulata (Aripo LP),male,Aripo,whole brain
+SRR10901835,3263476200,low-predation,042_LP-NP,2020-06-02T00:00:00Z,2020-01-16T00:45:00Z,Poecilia reticulata (Aripo LP),male,Aripo,whole brain
+SRR10901836,2052200000,low-predation,035_LP-P,2020-06-02T00:00:00Z,2020-01-16T00:44:00Z,Poecilia reticulata (Aripo LP),male,Aripo,whole brain
+SRR10901837,2341774000,low-predation,033_LP-NP,2020-06-02T00:00:00Z,2020-01-16T00:43:00Z,Poecilia reticulata (Aripo LP),male,Aripo,whole brain
+SRR10901838,2987939400,low-predation,032_LP-NP,2020-06-02T00:00:00Z,2020-01-16T00:45:00Z,Poecilia reticulata (Aripo LP),male,Aripo,whole brain
+SRR10901839,4053101000,low-predation,030_LP-P,2020-06-02T00:00:00Z,2020-01-16T00:48:00Z,Poecilia reticulata (Aripo LP),male,Aripo,whole brain
+SRR10901840,1425164000,high-predation,008_HP-NP,2020-06-02T00:00:00Z,2020-01-16T00:43:00Z,Poecilia reticulata (Aripo HP),male,Aripo,whole brain
+SRR10901841,3186360400,low-predation,028_LP-P,2020-06-02T00:00:00Z,2020-01-16T00:46:00Z,Poecilia reticulata (Aripo LP),male,Aripo,whole brain
+SRR10901842,1732794200,low-predation,023_LP-NP,2020-06-02T00:00:00Z,2020-01-16T00:44:00Z,Poecilia reticulata (Aripo LP),male,Aripo,whole brain
+SRR10901843,2269490200,low-predation,021_LP-P,2020-06-02T00:00:00Z,2020-01-16T00:45:00Z,Poecilia reticulata (Aripo LP),male,Aripo,whole brain
+SRR10901844,1961841200,low-predation,017_LP-NP,2020-06-02T00:00:00Z,2020-01-16T00:44:00Z,Poecilia reticulata (Aripo LP),male,Aripo,whole brain
+SRR10901845,2381988800,low-predation,016_LP-NP,2020-06-02T00:00:00Z,2020-01-16T00:45:00Z,Poecilia reticulata (Aripo LP),male,Aripo,whole brain
+SRR10901846,2691696000,low-predation,014_LP-P,2020-06-02T00:00:00Z,2020-01-16T00:47:00Z,Poecilia reticulata (Aripo LP),male,Aripo,whole brain
+SRR10901847,3080112000,low-predation,007_LP-NP,2020-06-02T00:00:00Z,2020-01-16T00:46:00Z,Poecilia reticulata (Aripo LP),male,Aripo,whole brain
+SRR10901848,2638470600,low-predation,005_LP-P,2020-06-02T00:00:00Z,2020-01-16T00:46:00Z,Poecilia reticulata (Aripo LP),male,Aripo,whole brain
+SRR10901849,2658562000,low-predation,003_LP-P,2020-06-02T00:00:00Z,2020-01-16T00:47:00Z,Poecilia reticulata (Aripo LP),male,Aripo,whole brain
+SRR10901850,2394239600,low-predation,001_LP-NP,2020-06-02T00:00:00Z,2020-01-16T00:45:00Z,Poecilia reticulata (Aripo LP),male,Aripo,whole brain
+SRR10901851,2214629000,high-predation,006_HP-P,2020-06-02T00:00:00Z,2020-01-16T00:46:00Z,Poecilia reticulata (Aripo HP),male,Aripo,whole brain
+SRR10901852,3092729000,high-predation,047_HP-NP,2020-06-02T00:00:00Z,2020-01-16T00:47:00Z,Poecilia reticulata (Aripo HP),male,Aripo,whole brain
+SRR10901853,4002053600,high-predation,045_HP-P,2020-06-02T00:00:00Z,2020-01-16T00:50:00Z,Poecilia reticulata (Aripo HP),male,Aripo,whole brain
+SRR10901854,1430868200,high-predation,043_HP-P,2020-06-02T00:00:00Z,2020-01-16T00:45:00Z,Poecilia reticulata (Aripo HP),male,Aripo,whole brain
+SRR10901855,3176521400,high-predation,041_HP-NP,2020-06-02T00:00:00Z,2020-01-16T00:49:00Z,Poecilia reticulata (Aripo HP),male,Aripo,whole brain
+SRR10901856,2832668600,high-predation,036_HP-P,2020-06-02T00:00:00Z,2020-01-16T00:48:00Z,Poecilia reticulata (Aripo HP),male,Aripo,whole brain
+SRR10901857,2462740600,high-predation,034_HP-NP,2020-06-02T00:00:00Z,2020-01-16T00:49:00Z,Poecilia reticulata (Aripo HP),male,Aripo,whole brain
+SRR10901858,2607153200,high-predation,031_HP-NP,2020-06-02T00:00:00Z,2020-01-16T00:47:00Z,Poecilia reticulata (Aripo HP),male,Aripo,whole brain
+SRR10901859,2597270600,high-predation,029_HP-P,2020-06-02T00:00:00Z,2020-01-16T00:47:00Z,Poecilia reticulata (Aripo HP),male,Aripo,whole brain
+SRR10901860,3020015600,high-predation,027_HP-P,2020-06-02T00:00:00Z,2020-01-16T00:48:00Z,Poecilia reticulata (Aripo HP),male,Aripo,whole brain
+SRR10901861,3117801200,high-predation,025_HP-NP,2020-06-02T00:00:00Z,2020-01-16T00:47:00Z,Poecilia reticulata (Aripo HP),male,Aripo,whole brain
+SRR10901862,2954811200,high-predation,004_HP-P,2020-06-02T00:00:00Z,2020-01-16T00:47:00Z,Poecilia reticulata (Aripo HP),male,Aripo,whole brain
+SRR10901863,2235538600,high-predation,002_HP-NP,2020-06-02T00:00:00Z,2020-01-16T00:47:00Z,Poecilia reticulata (Aripo HP),male,Aripo,whole brain
+SRR10901765,4404447400,low-predation,M04_LP-P,2020-06-02T00:00:00Z,2020-01-16T00:39:00Z,Poecilia reticulata brain (Quare LP),male,Quare,whole brain
+SRR10901766,2639327600,low-predation,M03_LP-NP,2020-06-02T00:00:00Z,2020-01-16T00:33:00Z,Poecilia reticulata brain (Quare LP),male,Quare,whole brain
+SRR10901767,2857034800,high-predation,M60_HP-NP,2020-06-02T00:00:00Z,2020-01-16T00:33:00Z,Poecilia reticulata brain (Quare HP),male,Quare,whole brain
+SRR10901768,2137180200,high-predation,M57_HP-P,2020-06-02T00:00:00Z,2020-01-16T00:32:00Z,Poecilia reticulata brain (Quare HP),male,Quare,whole brain
+SRR10901769,2662889000,high-predation,M56_HP-NP,2020-06-02T00:00:00Z,2020-01-16T00:34:00Z,Poecilia reticulata brain (Quare HP),male,Quare,whole brain
+SRR10901770,2474866800,high-predation,M54_HP-P,2020-06-02T00:00:00Z,2020-01-16T00:33:00Z,Poecilia reticulata brain (Quare HP),male,Quare,whole brain
+SRR10901771,5924557000,high-predation,M52_HP-NP,2020-06-02T00:00:00Z,2020-01-16T00:42:00Z,Poecilia reticulata brain (Quare HP),male,Quare,whole brain
+SRR10901772,4892641600,high-predation,M50_HP-P,2020-06-02T00:00:00Z,2020-01-16T00:41:00Z,Poecilia reticulata brain (Quare HP),male,Quare,whole brain
+SRR10901773,2830939200,high-predation,M48_HP-P,2020-06-02T00:00:00Z,2020-01-16T00:37:00Z,Poecilia reticulata brain (Quare HP),male,Quare,whole brain
+SRR10901774,2468858000,high-predation,M46_HP-NP,2020-06-02T00:00:00Z,2020-01-16T00:37:00Z,Poecilia reticulata brain (Quare HP),male,Quare,whole brain
+SRR10901776,2878484600,high-predation,M44_HP-P,2020-06-02T00:00:00Z,2020-01-16T00:38:00Z,Poecilia reticulata brain (Quare HP),male,Quare,whole brain
+SRR10901777,3518035000,high-predation,M42_HP-NP,2020-06-02T00:00:00Z,2020-01-16T00:38:00Z,Poecilia reticulata brain (Quare HP),male,Quare,whole brain
+SRR10901778,2881099600,high-predation,M40_HP-P,2020-06-02T00:00:00Z,2020-01-16T00:39:00Z,Poecilia reticulata brain (Quare HP),male,Quare,whole brain
+SRR10901779,2926427400,high-predation,M36_HP-P,2020-06-02T00:00:00Z,2020-01-16T00:39:00Z,Poecilia reticulata brain (Quare HP),male,Quare,whole brain
+SRR10901780,2356950800,high-predation,M33_HP-NP,2020-06-02T00:00:00Z,2020-01-16T00:38:00Z,Poecilia reticulata brain (Quare HP),male,Quare,whole brain
+SRR10901781,2697934800,high-predation,M31_HP-P,2020-06-02T00:00:00Z,2020-01-16T00:42:00Z,Poecilia reticulata brain (Quare HP),male,Quare,whole brain
+SRR10901782,2471070000,high-predation,M29_HP-NP,2020-06-02T00:00:00Z,2020-01-16T00:39:00Z,Poecilia reticulata brain (Quare HP),male,Quare,whole brain
+SRR10901783,3356762400,high-predation,M27_HP-P,2020-06-02T00:00:00Z,2020-01-16T00:41:00Z,Poecilia reticulata brain (Quare HP),male,Quare,whole brain
+SRR10901784,2727653000,high-predation,M25_HP-NP,2020-06-02T00:00:00Z,2020-01-16T00:39:00Z,Poecilia reticulata brain (Quare HP),male,Quare,whole brain
+SRR10901785,2953865000,high-predation,M24_HP-NP,2020-06-02T00:00:00Z,2020-01-16T00:39:00Z,Poecilia reticulata brain (Quare HP),male,Quare,whole brain
+SRR10901787,2586642000,high-predation,M22_HP-P,2020-06-02T00:00:00Z,2020-01-16T00:40:00Z,Poecilia reticulata brain (Quare HP),male,Quare,whole brain
+SRR10901788,1992718200,high-predation,M20_HP-NP,2020-06-02T00:00:00Z,2020-01-16T00:38:00Z,Poecilia reticulata brain (Quare HP),male,Quare,whole brain
+SRR10901789,3182498600,high-predation,M18_HP-P,2020-06-02T00:00:00Z,2020-01-16T00:40:00Z,Poecilia reticulata brain (Quare HP),male,Quare,whole brain
+SRR10901790,5280229600,high-predation,M16_HP-P,2020-06-02T00:00:00Z,2020-01-16T00:45:00Z,Poecilia reticulata brain (Quare HP),male,Quare,whole brain
+SRR10901791,15058017800,high-predation,M15_HP-NP,2020-06-02T00:00:00Z,2020-01-16T01:05:00Z,Poecilia reticulata brain (Quare HP),male,Quare,whole brain
+SRR10901792,1766753000,high-predation,M09_HP-P,2020-06-02T00:00:00Z,2020-01-16T00:38:00Z,Poecilia reticulata brain (Quare HP),male,Quare,whole brain
+SRR10901793,4325923000,high-predation,M08_HP-P,2020-06-02T00:00:00Z,2020-01-16T00:41:00Z,Poecilia reticulata brain (Quare HP),male,Quare,whole brain
+SRR10901794,2867594000,high-predation,M07_HP-NP,2020-06-02T00:00:00Z,2020-01-16T00:40:00Z,Poecilia reticulata brain (Quare HP),male,Quare,whole brain
+SRR10901795,2165059800,high-predation,M02_HP-P,2020-06-02T00:00:00Z,2020-01-16T00:39:00Z,Poecilia reticulata brain (Quare HP),male,Quare,whole brain
+SRR10901796,3247112400,low-predation,M62_LP-NP,2020-06-02T00:00:00Z,2020-01-16T00:41:00Z,Poecilia reticulata brain (Quare LP),male,Quare,whole brain
+SRR10901797,2610110600,low-predation,M61_LP-P,2020-06-02T00:00:00Z,2020-01-16T00:38:00Z,Poecilia reticulata brain (Quare LP),male,Quare,whole brain
+SRR10901798,2204524200,low-predation,M59_LP-NP,2020-06-02T00:00:00Z,2020-01-16T00:39:00Z,Poecilia reticulata brain (Quare LP),male,Quare,whole brain
+SRR10901799,3461784400,low-predation,M58_LP-P,2020-06-02T00:00:00Z,2020-01-16T00:42:00Z,Poecilia reticulata brain (Quare LP),male,Quare,whole brain
+SRR10901800,2080795000,low-predation,M55_LP-P,2020-06-02T00:00:00Z,2020-01-16T00:39:00Z,Poecilia reticulata brain (Quare LP),male,Quare,whole brain
+SRR10901801,4091750800,low-predation,M53_LP-NP,2020-06-02T00:00:00Z,2020-01-16T00:42:00Z,Poecilia reticulata brain (Quare LP),male,Quare,whole brain
+SRR10901802,2965546600,low-predation,M51_LP-P,2020-06-02T00:00:00Z,2020-01-16T00:40:00Z,Poecilia reticulata brain (Quare LP),male,Quare,whole brain
+SRR10901803,3175715600,low-predation,M49_LP-NP,2020-06-02T00:00:00Z,2020-01-16T00:42:00Z,Poecilia reticulata brain (Quare LP),male,Quare,whole brain
+SRR10901804,2345884400,low-predation,M47_LP-NP,2020-06-02T00:00:00Z,2020-01-16T00:39:00Z,Poecilia reticulata brain (Quare LP),male,Quare,whole brain
+SRR10901805,2889698000,low-predation,M45_LP-P,2020-06-02T00:00:00Z,2020-01-16T00:39:00Z,Poecilia reticulata brain (Quare LP),male,Quare,whole brain
+SRR10901807,2175013400,low-predation,M43_LP-NP,2020-06-02T00:00:00Z,2020-01-16T00:40:00Z,Poecilia reticulata brain (Quare LP),male,Quare,whole brain
+SRR10901808,1960390800,low-predation,M41_LP-P,2020-06-02T00:00:00Z,2020-01-16T00:40:00Z,Poecilia reticulata brain (Quare LP),male,Quare,whole brain
+SRR10901809,3144447200,low-predation,M39_LP-NP,2020-06-02T00:00:00Z,2020-01-16T00:43:00Z,Poecilia reticulata brain (Quare LP),male,Quare,whole brain
+SRR10901810,1870557800,low-predation,M38_LP-P,2020-06-02T00:00:00Z,2020-01-16T00:41:00Z,Poecilia reticulata brain (Quare LP),male,Quare,whole brain
+SRR10901811,2553035400,low-predation,M35_LP-NP,2020-06-02T00:00:00Z,2020-01-16T00:41:00Z,Poecilia reticulata brain (Quare LP),male,Quare,whole brain
+SRR10901812,3801156800,low-predation,M34_LP-P,2020-06-02T00:00:00Z,2020-01-16T00:44:00Z,Poecilia reticulata brain (Quare LP),male,Quare,whole brain
+SRR10901813,2042282600,low-predation,M32_LP-P,2020-06-02T00:00:00Z,2020-01-16T00:41:00Z,Poecilia reticulata brain (Quare LP),male,Quare,whole brain
+SRR10901814,6955509000,low-predation,M30_LP-NP,2020-06-02T00:00:00Z,2020-01-16T00:55:00Z,Poecilia reticulata brain (Quare LP),male,Quare,whole brain
+SRR10901815,3981629200,low-predation,M28_LP-P,2020-06-02T00:00:00Z,2020-01-16T00:49:00Z,Poecilia reticulata brain (Quare LP),male,Quare,whole brain
+SRR10901816,3443271600,low-predation,M26_LP-NP,2020-06-02T00:00:00Z,2020-01-16T00:44:00Z,Poecilia reticulata brain (Quare LP),male,Quare,whole brain
+SRR10901818,2802013800,low-predation,M23_LP-NP,2020-06-02T00:00:00Z,2020-01-16T00:43:00Z,Poecilia reticulata brain (Quare LP),male,Quare,whole brain
+SRR10901819,1834071200,low-predation,M21_LP-P,2020-06-02T00:00:00Z,2020-01-16T00:42:00Z,Poecilia reticulata brain (Quare LP),male,Quare,whole brain
+SRR10901820,2114702600,low-predation,M19_LP-NP,2020-06-02T00:00:00Z,2020-01-16T00:42:00Z,Poecilia reticulata brain (Quare LP),male,Quare,whole brain
+SRR10901821,463851400,low-predation,M17_LP-P,2020-06-02T00:00:00Z,2020-01-16T00:39:00Z,Poecilia reticulata brain (Quare LP),male,Quare,whole brain
+SRR10901822,2542981200,low-predation,M14_LP-P,2020-06-02T00:00:00Z,2020-01-16T00:46:00Z,Poecilia reticulata brain (Quare LP),male,Quare,whole brain
+SRR10901823,2381426600,low-predation,M13_LP-NP,2020-06-02T00:00:00Z,2020-01-16T00:43:00Z,Poecilia reticulata brain (Quare LP),male,Quare,whole brain
+SRR10901824,2364405800,low-predation,M12_LP-NP,2020-06-02T00:00:00Z,2020-01-16T00:43:00Z,Poecilia reticulata brain (Quare LP),male,Quare,whole brain
+SRR10901825,2364454400,low-predation,M11_LP-P,2020-06-02T00:00:00Z,2020-01-16T00:43:00Z,Poecilia reticulata brain (Quare LP),male,Quare,whole brain
+SRR10901826,3187156400,low-predation,M06_LP-P,2020-06-02T00:00:00Z,2020-01-16T00:44:00Z,Poecilia reticulata brain (Quare LP),male,Quare,whole brain
+SRR10901827,2230065800,low-predation,M05_LP-NP,2020-06-02T00:00:00Z,2020-01-16T00:43:00Z,Poecilia reticulata brain (Quare LP),male,Quare,whole brain
+SRR10901828,1715998000,high-predation,M01_HP-NP,2020-06-02T00:00:00Z,2020-01-16T00:41:00Z,Poecilia reticulata brain (Quare HP),male,Quare,whole brain

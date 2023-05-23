@@ -1,0 +1,27 @@
+{
+    "id": "BE72BF6D",
+    "path": "~/Desktop/HokeLab_2023/2023_05/AI_glmm/scripts/rxn_norm.R",
+    "project_path": "scripts/rxn_norm.R",
+    "type": "r_source",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1684762576625.0,
+    "source_on_save": false,
+    "relative_order": 7,
+    "properties": {
+        "tempName": "Untitled1",
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "86,90",
+        "scrollLine": "68"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1684778840,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1684778840730,
+    "read_only": false,
+    "read_only_alternatives": []
+}
